@@ -1,0 +1,34 @@
+# Build Results
+bin/
+obj/
+
+# VS Code settings
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+
+# Mac system files
+.DS_Store
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# DotNet CLI related
+project.lock.json
+project.fragment.lock.json
+
+# Logs
+*.log
+
+# Auto-generated files
+Generated_Code/
+
+# Test results
+TestResult.xml
+*.trx
+
+# Others
+*.vs/
