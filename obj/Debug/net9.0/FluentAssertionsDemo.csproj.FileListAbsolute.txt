@@ -1,0 +1,17 @@
+/Users/mathieudrimonakos/Documents/GitHub/FluentAssertionsDemo/bin/Debug/net9.0/FluentAssertionsDemo
+/Users/mathieudrimonakos/Documents/GitHub/FluentAssertionsDemo/bin/Debug/net9.0/FluentAssertionsDemo.deps.json
+/Users/mathieudrimonakos/Documents/GitHub/FluentAssertionsDemo/bin/Debug/net9.0/FluentAssertionsDemo.runtimeconfig.json
+/Users/mathieudrimonakos/Documents/GitHub/FluentAssertionsDemo/bin/Debug/net9.0/FluentAssertionsDemo.dll
+/Users/mathieudrimonakos/Documents/GitHub/FluentAssertionsDemo/bin/Debug/net9.0/FluentAssertionsDemo.pdb
+/Users/mathieudrimonakos/Documents/GitHub/FluentAssertionsDemo/bin/Debug/net9.0/FluentAssertions.dll
+/Users/mathieudrimonakos/Documents/GitHub/FluentAssertionsDemo/obj/Debug/net9.0/FluentAssertionsDemo.csproj.AssemblyReference.cache
+/Users/mathieudrimonakos/Documents/GitHub/FluentAssertionsDemo/obj/Debug/net9.0/FluentAssertionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathieudrimonakos/Documents/GitHub/FluentAssertionsDemo/obj/Debug/net9.0/FluentAssertionsDemo.AssemblyInfoInputs.cache
+/Users/mathieudrimonakos/Documents/GitHub/FluentAssertionsDemo/obj/Debug/net9.0/FluentAssertionsDemo.AssemblyInfo.cs
+/Users/mathieudrimonakos/Documents/GitHub/FluentAssertionsDemo/obj/Debug/net9.0/FluentAssertionsDemo.csproj.CoreCompileInputs.cache
+/Users/mathieudrimonakos/Documents/GitHub/FluentAssertionsDemo/obj/Debug/net9.0/FluentAs.3941BB27.Up2Date
+/Users/mathieudrimonakos/Documents/GitHub/FluentAssertionsDemo/obj/Debug/net9.0/FluentAssertionsDemo.dll
+/Users/mathieudrimonakos/Documents/GitHub/FluentAssertionsDemo/obj/Debug/net9.0/refint/FluentAssertionsDemo.dll
+/Users/mathieudrimonakos/Documents/GitHub/FluentAssertionsDemo/obj/Debug/net9.0/FluentAssertionsDemo.pdb
+/Users/mathieudrimonakos/Documents/GitHub/FluentAssertionsDemo/obj/Debug/net9.0/FluentAssertionsDemo.genruntimeconfig.cache
+/Users/mathieudrimonakos/Documents/GitHub/FluentAssertionsDemo/obj/Debug/net9.0/ref/FluentAssertionsDemo.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EJ8Rw9qnuOs=",
+  "success": true,
+  "projectFilePath": "/Users/mathieudrimonakos/Documents/GitHub/FluentAssertionsDemo/FluentAssertionsDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/mathieudrimonakos/.nuget/packages/fluentassertions/8.3.0/fluentassertions.8.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
